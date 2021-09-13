@@ -44,7 +44,12 @@ module.exports = {
         path: '/light/',
         collapsable: true,
         sidebarDepth: 1,
-        children: ['/light/', '/light/test', '/light/type-inference', '/light/TS'],
+        children: [
+          '/light/',
+          '/light/test',
+          '/light/type-inference',
+          '/light/TS',
+        ],
       },
     ],
 
@@ -52,6 +57,9 @@ module.exports = {
 
     repo: 'xutongbao/blog',
     repoLabel: 'GitHub',
+    docsRepo: 'xutongbao/blog',
+    // 假如文档不是放在仓库的根目录下：
+    docsDir: 'src',
     editLinks: true,
     editLinkText: '在 GitHub 上编辑此页',
     smoothScroll: true,
