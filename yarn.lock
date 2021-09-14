@@ -2939,6 +2939,11 @@ dir-glob@^2.0.0, dir-glob@^2.2.2:
   dependencies:
     path-type "^3.0.0"
 
+directory-tree@^2.3.1:
+  version "2.3.1"
+  resolved "https://registry.nlark.com/directory-tree/download/directory-tree-2.3.1.tgz#78b8aa84878eb84dd29a51dcd664ded4cd0247c7"
+  integrity sha1-eLiqhIeOuE3SmlHc1mTe1M0CR8c=
+
 dns-equal@^1.0.0:
   version "1.0.0"
   resolved "https://registry.nlark.com/dns-equal/download/dns-equal-1.0.0.tgz#b39e7f1da6eb0a75ba9c17324b34753c47e0654d"

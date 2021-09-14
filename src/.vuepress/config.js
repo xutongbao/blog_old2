@@ -49,11 +49,12 @@ module.exports = {
           '/light/test',
           '/light/type-inference',
           '/light/TS',
+          '/light/01_pagic Deno + React 驱动的静态网站生成器 入门',
+          '/light/02_antd Form.Item label添加解释信息'
         ],
       },
     ],
-
-    lastUpdated: '上次更新:',
+    lastUpdated: '上次更新',
 
     repo: 'xutongbao/blog',
     repoLabel: 'GitHub',
